@@ -1,0 +1,14 @@
+.q-1{
+    display: flex;
+    justify-content: space-around;
+}
+.questions{
+    text-align: center;
+}
+.ans-style{
+    text-align: center;
+}
+.answear{
+    font-size: 20px;
+    margin: 22px;
+}
